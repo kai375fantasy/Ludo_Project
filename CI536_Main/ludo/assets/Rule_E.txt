@@ -1,0 +1,22 @@
+
+Takeoff 
+After rolling a 6, a piece may take off from the Base to the takeoff point, and may roll again to determine the number of advancing pieces; a roll of 5 or more is sufficient for takeoff (no further rolls are permitted on a roll of 5).
+
+Continuous Throw Bonus 
+During the course of the game, a player who rolls a 6 may roll consecutive dice; if he or she rolls a 6 three times in a row, all of his or her side's pieces return to the tarmac (including those that have reached the end of the line) and may not roll again.
+
+Iteration 
+When your pieces come to the same square and can be placed together, this is called “iteration”. Enemy pieces may not fly over a flip; when an enemy piece stays just above a flip, the enemy piece returns to the tarmac at the same time as the two flip pieces. If the other player rolls a point greater than the number of steps between his piece and the Iteration, the extra square is the number of squares returned from the Iteration; however, if the other player rolls a 6 and the difference between his piece and the Iteration is greater than the number of steps between his piece and the Iteration, then the other player's piece may rest on top of the Iteration, but the server automatically takes the piece that was resting on top of the Iteration when the player rolls a point again automatically, according to the rules. If a piece is about to cross the dotted line when another piece stops at the intersection of the dotted line and the line to the end: A. If the opponent is a single piece, that piece is expelled back to the base, and the home team continues to travel to the other side; B. If the opponent is two pieces overlapping, that piece cannot cross the dotted line and must go around.
+In the improved rule, an enemy piece may fly over an iteration; when an enemy piece stays just above an iteration, all the pieces of that iteration return to the apron without the enemy piece, and the same applies to an iteration facing the dotted line.
+
+Bump 
+When a piece reaches a square while traveling, it may drive an enemy piece back to its base if it is already there.
+
+Jumping 
+A piece that stops on a square of the same color as its own while traveling on the map may jump to the previous square of the same color.
+
+Flying Chess 
+If a piece travels to a square of the same color connected by a dotted line, it may pass through the dotted line to the square of the same color in front of it according to the route indicated by the dotted arrows, and then jump to the next square of the same color as the piece; if the piece jumps from the previous square of the same color to the square of the same color connected by a dotted line, it passes through the dotted line to the same color in front of it according to the route indicated by the dotted arrows, and then stops moving. The end point is the square in front of you that has the same color arrow.
+
+The “end point” of 
+is the destination of the game pieces. When a player's piece reaches this square, the player has reached the end and can no longer control that piece. In the traditional rules of flight chess, a player has to get to the end of the line just in time to be considered “at the end”, and if a player throws a die that does not get to the end of the line just in time, the piece will move back in time for the extra points.
